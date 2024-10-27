@@ -1,0 +1,3 @@
+Vozilo: Truck, ID: 047e4156-e445-4e71-be24-2be5dc10d2a4 Putnici: Putnik021b82c4e-9073-4911-8da0-401b6a37546a  - Kamion nije prosao carinsku obradu zbog preopterecenostivehicles.Truckct2
+Vozilo: Truck, ID: 5c2083b1-dbe1-4404-827a-8c71dcfbb9a5 Putnici: Putnik0518fe631-84f5-4a17-9b7e-04d7abddddfa Putnik18b8a1f72-5ec7-417a-9d84-0c8a6da97206  - Kamion nije prosao carinsku obradu zbog preopterecenostivehicles.Truckct2
+Vozilo: Truck, ID: 29a3d43f-e72f-47f3-9747-981d31d5c11f Putnici: Putnik0d9f6ecdc-fbe1-46b2-a6b8-1fb63c36cc17  - Kamion nije prosao carinsku obradu zbog preopterecenostivehicles.Truckct2
